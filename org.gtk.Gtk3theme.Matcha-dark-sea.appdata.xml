@@ -9,8 +9,8 @@
   </description>
   <url type="homepage">https://github.com/vinceliuice/matcha</url>
   <releases>
-        <release version="2021-02-04.1" date="2021-03-05">
-            <description>Reduced install size</description>
+        <release version="2021-02-04" date="2021-03-05">
+            <description>Fixed ibus popover issue</description>
         </release>
     </releases>
 </component>
