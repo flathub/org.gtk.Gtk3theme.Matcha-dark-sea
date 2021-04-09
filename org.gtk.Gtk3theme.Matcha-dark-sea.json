@@ -13,15 +13,15 @@
             "buildsystem": "simple",
             "build-commands": [
                 "mkdir -pm 755 /usr/share/runtime/share/themes/Matcha-dark-sea/gtk-3.0/assets",
-                "cp -fr src/gtk-3.0/assets-sea/* /usr/share/runtime/share/themes/Matcha-dark-sea/gtk-3.0/assets/",
-                "cp src/gtk-3.0/gtk-dark-sea.css /usr/share/runtime/share/themes/Matcha-dark-sea/gtk-3.0/gtk.css"
+                "cp -fr src/gtk/assets-sea/* /usr/share/runtime/share/themes/Matcha-dark-sea/gtk-3.0/assets/",
+                "cp src/gtk/gtk-3.0/gtk-dark-sea.css /usr/share/runtime/share/themes/Matcha-dark-sea/gtk-3.0/gtk.css"
             ],
             "sources": [
                 {
                     "type": "archive",
                     "archive-type": "tar-gzip",
-                    "url": "https://api.github.com/repos/vinceliuice/Matcha-gtk-theme/tarball/2021-04-05",
-                    "sha256": "0481ea2567816d9df8a1417a101b33ba2fdc44df716953097ff400a7473da62a"
+                    "url": "https://api.github.com/repos/vinceliuice/Matcha-gtk-theme/tarball/2021-04-09",
+                    "sha256": "6284128e9222438c6dde7b937869143cde62687383b309c0418a191ed76eb1d4"
                 }
             ]
         },
