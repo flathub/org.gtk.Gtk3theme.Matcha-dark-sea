@@ -9,8 +9,8 @@
   </description>
   <url type="homepage">https://github.com/vinceliuice/matcha</url>
   <releases>
-        <release version="2021-04-09" date="2021-04-09">
-            <description>Add Gtk + 4.0 theme support</description>
+        <release version="2021-05-20" date="2021-05-20">
+            <description>Fixed issues</description>
         </release>
     </releases>
 </component>
