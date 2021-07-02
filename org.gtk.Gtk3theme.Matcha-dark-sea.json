@@ -20,8 +20,8 @@
                 {
                     "type": "archive",
                     "archive-type": "tar-gzip",
-                    "url": "https://api.github.com/repos/vinceliuice/Matcha-gtk-theme/tarball/2021-06-02",
-                    "sha256": "91f7ffb2231493c5fd81db5b2d34d755316bb9b37d131c4184d9e0c61fae4680"
+                    "url": "https://api.github.com/repos/vinceliuice/Matcha-gtk-theme/tarball/2021-06-24",
+                    "sha256": "11e91ab1094238bf6239c42238375e0138b0fdcb889b88f55322d1a7d6a1715a"
                 }
             ]
         },
