@@ -9,8 +9,9 @@
   </description>
   <url type="homepage">https://github.com/vinceliuice/matcha</url>
   <releases>
-        <release version="2021-07-20" date="2021-07-20">
-            <description>Fixed gnome-shell 40.3 issues</description>
+        <release version="2021-12-25" date="2021-12-24">
+            <description>Add hdpi and xhdpi xfwm4 theme support
+Fixed issues</description>
         </release>
     </releases>
 </component>
